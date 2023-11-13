@@ -1,7 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Pedro0405/Pedro0405/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQFwdtD5_w3UQA/profile-displaybackgroundimage-shrink_350_1400/0/1671825840619?e=1705536000&v=beta&t=Lo_1r5cFbLeCVyDVbr0awj-wpq15qR3mWXgc0uCk6So" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Procuro me tornar um desenvolvedor focado no backEnd, amo resolver desafios com .net e c#, venho cada dia mais aperfeiçoando minhas habilidades no frontEnd a procura de uma chance de conseguir me destacar</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Pedro0405&theme=radical&mode=weekly" />
