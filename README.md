@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQFwdtD5_w3UQA/profile-displaybackgroundimage-shrink_350_1400/0/1671825840619?e=1705536000&v=beta&t=Lo_1r5cFbLeCVyDVbr0awj-wpq15qR3mWXgc0uCk6So" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D5616AQFhu01l-YGKJg/profile-displaybackgroundimage-shrink_350_1400/0/1699974150608?e=1705536000&v=beta&t=eNAMPNY4zEdPrSJ7pfQ4T0VmanZ7hpVfd2HghYWjnoE" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Procuro me tornar um desenvolvedor focado no backEnd, amo resolver desafios com .net e c#, venho cada dia mais aperfeiçoando minhas habilidades no frontEnd a procura de uma chance de conseguir me destacar</p>&nbsp;
